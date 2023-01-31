@@ -9,7 +9,7 @@
 
 I'm
 Full Stack Solution Architect.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,SQL).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/abhi844735/count.svg)
