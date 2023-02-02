@@ -2,8 +2,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhi-panchal-29721423a)](https://www.linkedin.com/in/abhi-panchal-29721423a)
-<br>
-<a href="https://abhi844735.github.io/">My portfolio...👋</a>
+
+
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Abhi-blue)](https://twitter.com/Abhi43378410)
 [![Portofolio Badge](https://img.shields.io/badge/Porfolio-Abhi-red)](https://abhi844735.github.io/)
