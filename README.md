@@ -39,9 +39,10 @@ Languages and Tools:
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning full stack web development course.
+
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning full stack web development course.
 - 💬 Ask me about coding
 - 📫 How to reach me: pabhi4407@gmail.com
 <!-- - 😄 Pronouns: ... -->
