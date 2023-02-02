@@ -22,6 +22,7 @@ The crossover between design and programming has always been of interest to me, 
     <img src="https://github-profile-trophy.vercel.app/?username=abhi844735&column=7"/>
   </a>
 </div>
+</br>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhi844735&theme=dark)](https://git.io/streak-stats)
