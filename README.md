@@ -5,7 +5,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Abhi-blue)](https://twitter.com/Abhi43378410)
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Abhi-blue)](https://twitter.com/Abhi43378410) -->
 [![Portofolio Badge](https://img.shields.io/badge/Porfolio-Abhi-red)](https://abhi844735.github.io/)
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning full stack web development course.
 - 💬 Ask me about coding
-- 📫 How to reach me: pabhi4407@gmail.com
+<!-- - 📫 How to reach me: pabhi4407@gmail.com -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ..... -->
 
