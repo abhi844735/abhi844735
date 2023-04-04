@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhi-panchal-29721423a)](https://www.linkedin.com/in/abhi-panchal-29721423a)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhi-panchal-29721423a)](https://www.linkedin.com/in/abhi-panchal-29721423a/)
 
 
 
