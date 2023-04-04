@@ -8,7 +8,7 @@
 
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Abhi-blue)](https://twitter.com/Abhi43378410) -->
-<a href="https:/abhi844735.github.io/">
+<a href="https://abhi844735.github.io/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
     </a>
 
