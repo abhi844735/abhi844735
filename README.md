@@ -1,12 +1,16 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhi-panchal-29721423a)](https://www.linkedin.com/in/abhi-panchal-29721423a/)
+<a href="https://www.linkedin.com/in/abhi-panchal-29721423a/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
+    </a>
 
 
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Abhi-blue)](https://twitter.com/Abhi43378410) -->
-[![Portofolio Badge](https://img.shields.io/badge/Porfolio-Abhi-red)](https://abhi844735.github.io/)
+<a href="https:/abhi844735.github.io/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
+    </a>
 
 
 I'm
